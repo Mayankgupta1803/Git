@@ -5,3 +5,17 @@
 
 
 
+/* In Git, everything is stored as objects inside .git/objects:
+
+Blob: A file's content.
+
+Tree: A folder (directory) — like a snapshot of file structure.
+
+Commit: A pointer that says: "This tree is the state of the project at this moment."
+
+✅ A Tree in Git represents a folder (and files inside it) at a certain point in time.
+
+
+
+
+*/
